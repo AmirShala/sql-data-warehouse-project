@@ -108,4 +108,5 @@ data-warehouse-project/
 Hi there! I'm **Amir Shala**. I’m a BI Developer and I'd like to share my project with you!
 
 Let's stay in touch! Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-shala-541062146/)
-Also!, Check my Portfolio for more projects and other stuff  :) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+Also!, Check my personal website for more projects and other stuff  :) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
